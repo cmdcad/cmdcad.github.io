@@ -1,13 +1,13 @@
- {
+
 [{
-      "id": 11,
+      "id": 0,
       "title": "Beer",
       "price": "7"
     },
     {
-      "id": 12,
+      "id": 1,
       "title": "Iced Tea",
       "price": "3"
     }
   ]
-}
+
